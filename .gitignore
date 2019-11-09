@@ -1,11 +1,11 @@
 # Ingore package json
-package
-package-lock
+package.json
+package-lock.json
 node_modules
 
 #test files
-.test
-test
+test.js
+test.html
 
 #image files
 img*/
