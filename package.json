@@ -1,0 +1,15 @@
+{
+  "name": "storme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "publish": "publish-to-git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "publish-to-git": "^1.1.7"
+  }
+}

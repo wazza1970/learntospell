@@ -1,0 +1,11 @@
+# Ingore package json
+package
+package-lock
+node_modules
+
+#test files
+.test
+test
+
+#image files
+img*/
